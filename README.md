@@ -6,7 +6,7 @@
 ### 👨‍🎓 About Me
 - 🎓 First Year **CSE Undergraduate @ IIT Kharagpur**
 - 💻 Currently learning **Web Development & DSA**
-- 🚀 Love building projects and learning real-world tech
+- 🚀 🚀 Love experimenting with code and turning ideas into projects
 - 🎯 Goal: Become a strong software developer
 
 ---
@@ -21,7 +21,7 @@
 ### 📈 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajesh-dev-iitkgp&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajesh-dev-iitkgp&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=rajesh-dev-iitkgp&theme=tokyonight" height="150"/>
 </p>
 
 ---
